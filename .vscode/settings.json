@@ -1,0 +1,3 @@
+{
+    "spectral.rulesetFile": "test-spectral\\test_rules\\my-ruleset.yaml"
+}

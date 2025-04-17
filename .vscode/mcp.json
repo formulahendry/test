@@ -1,0 +1,21 @@
+{
+    "servers": {
+        "mcp-server-hotnews": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@wopal/mcp-server-hotnews"
+            ]
+        },
+        "mcp-server-time": {
+            "type": "stdio",
+            "command": "python",
+            "args": [
+                "-m",
+                "mcp_server_time",
+                "--local-timezone=Asia/Shanghai",
+            ],
+            "env": {}
+        },
+    }
+}

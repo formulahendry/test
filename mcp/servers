@@ -1,17 +1,12 @@
 {
   "servers": [
     {
-      "id": "2d1cd0e5-1e8f-42b6-8b2b-0a4c50e59b9f",
-      "name": "Microsoft Docs Search",
-      "description": "Microsoft Docs Search",
-      "repository": {
-        "url": "https://github.com/Azure/api-center",
-        "source": "github",
-        "id": "f5909a54-5232-5f7a-8794-0ddc91e96698"
-      },
+      "id": "2bbf107d-cf7c-4556-a5da-3b090266a606",
+      "name": "Microsoft docs",
+      "description": "AI assistant with real-time access to official Microsoft documentation.",
       "version_detail": {
-        "version": "Initial Version",
-        "release_date": "2025-06-13T22:57:16.1828357Z",
+        "version": "Original",
+        "release_date": "2025-06-27T04:07:14.9801797Z",
         "is_latest": true
       }
     }

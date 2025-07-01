@@ -1,0 +1,19 @@
+{
+  "servers": [
+    {
+      "id": "2d1cd0e5-1e8f-42b6-8b2b-0a4c50e59b9f",
+      "name": "Microsoft Docs Search",
+      "description": "Microsoft Docs Search",
+      "repository": {
+        "url": "https://github.com/Azure/api-center",
+        "source": "github",
+        "id": "f5909a54-5232-5f7a-8794-0ddc91e96698"
+      },
+      "version_detail": {
+        "version": "Initial Version",
+        "release_date": "2025-06-13T22:57:16.1828357Z",
+        "is_latest": true
+      }
+    }
+  ]
+}
